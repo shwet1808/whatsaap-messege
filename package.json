@@ -1,0 +1,25 @@
+{
+  "name": "whatsaap-messege",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwet1808/whatsaap-messege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/shwet1808/whatsaap-messege/issues"
+  },
+  "homepage": "https://github.com/shwet1808/whatsaap-messege#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
